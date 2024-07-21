@@ -33,3 +33,10 @@ pnpm run dev
 
 - [Go to API MVP](https://titanstar-legends-rune-calculator.vercel-api.app/api/paths)
 - [Go to UI MVP](https://titanstar-legends-rune-calculator.vercel.app/)
+
+### Next Steps
+
+- Add tests for all routes and controllers
+- Add husky
+- Add swagger
+- Add linter
