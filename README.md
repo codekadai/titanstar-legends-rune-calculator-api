@@ -6,7 +6,7 @@ This is a basic API for the [TitanStar Legends - Rune Mastery Loadout Talent Cal
 
 Here we have two endpoints that connect with a Supabase database (PostgreSQL) instance:
 
-- `/api/players`: which returns the players and its informacion (`name` and `talentPoints`)
+- `/api/players`: which returns the players and its information (`name` and `talentPoints`)
 - `/api/paths`: which returns the paths and their respective runes
 
 ### Tech Stack
