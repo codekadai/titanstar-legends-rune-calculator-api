@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
     "dev": "npx ts-node-dev ."
   },
   "dependencies": {
