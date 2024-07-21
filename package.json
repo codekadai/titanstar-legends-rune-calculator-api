@@ -1,0 +1,21 @@
+{
+  "name": "titanstar-legends-rune-calculator-api",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "npx ts-node-dev ."
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.44.4",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20"
+  }
+}
