@@ -15,6 +15,8 @@ app.use(cors());
 app.use(API_URL, pathsRoutes);
 app.use(API_URL, playersRoutes);
 
+module.exports = app;
+
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
