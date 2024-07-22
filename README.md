@@ -29,14 +29,18 @@ pnpm install
 pnpm run dev
 ```
 
+### Repositories
+
+- [Go to the UI repository](https://github.com/marcomaza92/titanstar-legends-rune-calculator/)
+
 ### Demo
 
-- [Go to API MVP](https://titanstar-legends-rune-calculator.vercel-api.app/api/paths)
+- [Go to API MVP](https://titanstar-legends-rune-calculator-api.vercel.app/api/paths/)
 - [Go to UI MVP](https://titanstar-legends-rune-calculator.vercel.app/)
 
 ### Next Steps
 
 - Add tests for all routes and controllers
 - Add husky
-- Add swagger
+- Add Swagger
 - Add linter
